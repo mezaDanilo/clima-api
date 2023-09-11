@@ -1,25 +1,3 @@
-## Link al curso completo de Javascript en Youtube:
-[VIDEO CURSO GRATIS COMPLETO: JavaScript Desde Cero por Sergie Code](https://youtu.be/N8Xt5rP_DUo)
-
-
-# Tutorial de JavaScript: Aplicación de Clima
-
-Link para ver el resultado: [APLICACION DE CLIMA TRABAJO FINALIZADO](https://aplicacion-clima-javascript.netlify.app/)
-
-Este tutorial te guiará a través del proceso de creación de una aplicación de clima utilizando JavaScript. La aplicación mostrará datos en tiempo real del clima de una ciudad específica utilizando la API de OpenWeatherMap.
-
-## Configuración inicial
-
-Antes de comenzar, necesitarás obtener una clave de API de OpenWeatherMap. Sigue estos pasos para obtener tu propia clave de API:
-
-1.  Regístrate en el sitio web de OpenWeatherMap en [https://openweathermap.org](https://openweathermap.org/) si aún no tienes una cuenta.
-2.  Inicia sesión en tu cuenta y navega a la sección "API Keys" (Claves de API) en tu perfil.
-3.  Genera una nueva clave de API y asegúrate de copiarla, ya que la necesitarás más adelante en el código.
-
-## Estructura del código
-
-A continuación se muestra el código JavaScript necesario para realizar la solicitud a la API de OpenWeatherMap y mostrar los datos del clima en tu aplicación. Asegúrate de que el código esté vinculado correctamente con tu archivo HTML y que la etiqueta `<div>` con el ID "datosClima" esté presente en tu página.
-
 ## Explicación del código
 
 El código anterior consta de dos funciones principales: `fetchDatosClima(ciudad)` y `mostrarDatosClima(data)`. Aquí está cómo funciona cada una:
@@ -79,4 +57,4 @@ El código anterior consta de dos funciones principales: `fetchDatosClima(ciudad
 
 Recuerda reemplazar `'API_KEY'` en el código con tu propia clave de API obtenida de OpenWeatherMap.
 
-¡Ahora deberías tener una aplicación de clima completamente funcional en tu página web! Los usuarios podrán ingresar una ciudad y obtener información actualizada sobre el clima en esa ubicación.
+
